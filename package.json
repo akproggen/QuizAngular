@@ -1,6 +1,8 @@
 {
   "name": "quiz-project",
   "version": "0.0.0",
+  "description": "A simple quiz application built with Angular and Express",
+  "type": "module",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
