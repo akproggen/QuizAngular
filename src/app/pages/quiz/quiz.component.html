@@ -1,1 +1,69 @@
-<p>quiz works!</p>
+<div class="container my-4">
+  <h2 class="mb-4 text-center">Multiple Choice Quiz</h2>
+
+  <!-- Quiz Card -->
+  <div class="row justify-content-center">
+    <div class="col-12 col-md-8 col-lg-6">
+      <div class="card shadow-sm">
+        <div class="card-header bg-primary text-white">
+          <h5 class="card-title mb-0">Question {{ currentQuestionIndex + 1 }} of {{ questionList.length }}</h5>
+        </div>
+        <div class="card-body">
+          <h6 class="card-subtitle mb-2 text-muted">{{ currentQuestion.category }} ({{ currentQuestion.difficulty | titlecase }})</h6>
+          <p class="card-text fs-5">{{ currentQuestion.question }}</p>
+
+          <!-- Answer Options -->
+          <form>
+            <div class="mb-3">
+              <div class="form-check" *ngFor="let option of answerOptions">
+                <input
+                  class="form-check-input"
+                  type="radio"
+                  name="answer"
+                  [id]="'option-' + option"
+                  [value]="option"
+                  [(ngModel)]="selectedAnswer"
+                >
+                <label class="form-check-label" [for]="'option-' + option">
+                  {{ option }}
+                </label>
+              </div>
+            </div>
+          </form>
+
+          <!-- Feedback -->
+          <div *ngIf="feedback" class="alert" [ngClass]="{
+            'alert-success': feedback.includes('Correct'),
+            'alert-danger': feedback.includes('Incorrect') || feedback.includes('Please'),
+            'alert-info': feedback.includes('Quiz completed')
+          }">
+            {{ feedback }}
+          </div>
+        </div>
+        <div class="card-footer d-flex justify-content-between">
+          <button
+            class="btn btn-outline-primary"
+            (click)="resetQuiz()"
+            *ngIf="currentQuestionIndex === questionList.length - 1 && feedback"
+          >
+            Restart Quiz
+          </button>
+          <button
+            class="btn btn-primary"
+            (click)="submitAnswer()"
+            *ngIf="!feedback || feedback.includes('Please')"
+          >
+            Submit Answer
+          </button>
+          <button
+            class="btn btn-primary"
+            (click)="nextQuestion()"
+            *ngIf="feedback && !feedback.includes('Quiz completed')"
+          >
+            Next Question
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

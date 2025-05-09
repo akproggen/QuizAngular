@@ -1,0 +1,605 @@
+{
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "What is the airspeed velocity of an unladen swallow?",
+        "correct_answer": "24 MPH",
+        "incorrect_answers": [
+          "15 MPH",
+          "20 MPH",
+          "200 MPH"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which of these words means &quot;idle spectator&quot;?",
+        "correct_answer": "Gongoozler",
+        "incorrect_answers": [
+          "Gossypiboma",
+          "Jentacular",
+          "Meupareunia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What do the letters of the fast food chain KFC stand for?",
+        "correct_answer": "Kentucky Fried Chicken",
+        "incorrect_answers": [
+          "Kentucky Fresh Cheese",
+          "Kibbled Freaky Cow",
+          "Kiwi Food Cut"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which of these holidays is NOT usually celebrated in the month of December?",
+        "correct_answer": "Thanksgiving",
+        "incorrect_answers": [
+          "Christmas",
+          "Kwanzaa",
+          "Hanukkah"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Rolex is a company that specializes in what type of product?",
+        "correct_answer": "Watches",
+        "incorrect_answers": [
+          "Cars",
+          "Computers",
+          "Sports equipment"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Who invented Pastafarianism?",
+        "correct_answer": "Bobby Henderson",
+        "incorrect_answers": [
+          "Eric Tignor",
+          "Bill Nye",
+          "Zach Soldi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "In 2013 how much money was lost by Nigerian scams?",
+        "correct_answer": "$12.7 Billion",
+        "incorrect_answers": [
+          "$95 Million",
+          "$956 Million",
+          "$2.7 Billion"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Frank Lloyd Wright was the architect behind what famous building?",
+        "correct_answer": "The Guggenheim",
+        "incorrect_answers": [
+          "Villa Savoye",
+          "Sydney Opera House",
+          "The Space Needle"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The Hyundai Motor Company was founded in which country?",
+        "correct_answer": "South Korea",
+        "incorrect_answers": [
+          "Russia",
+          "Japan",
+          "China"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "The term &quot;scientist&quot; was coined in which year?",
+        "correct_answer": "1833",
+        "incorrect_answers": [
+          "1933",
+          "1942",
+          "1796"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which of the following Ivy League universities has its official motto in Hebrew as well as in Latin?",
+        "correct_answer": "Yale University",
+        "incorrect_answers": [
+          "Princeton University",
+          "Harvard University",
+          "Columbia University"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the Spanish word for &quot;donkey&quot;?",
+        "correct_answer": "Burro",
+        "incorrect_answers": [
+          "Caballo",
+          "Toro",
+          "Perro"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "When was Hubba Bubba first introduced?",
+        "correct_answer": "1979",
+        "incorrect_answers": [
+          "1984",
+          "1972",
+          "1980"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which American president appears on a one dollar bill?",
+        "correct_answer": "George Washington",
+        "incorrect_answers": [
+          "Thomas Jefferson",
+          "Abraham Lincoln",
+          "Benjamin Franklin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "In Half-Life, what is the name of the alien that attaches to heads?",
+        "correct_answer": "Headcrab",
+        "incorrect_answers": [
+          "Bullsquid",
+          "Vortigaunt",
+          "Facehugger"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "In a standard set of playing cards, which is the only king without a moustache?",
+        "correct_answer": "Hearts",
+        "incorrect_answers": [
+          "Spades",
+          "Diamonds",
+          "Clubs"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "When one is &quot;envious&quot;, they are said to be what color?",
+        "correct_answer": "Green",
+        "incorrect_answers": [
+          "Red",
+          "Blue",
+          "Yellow"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What is the full title of the Prime Minister of the UK?",
+        "correct_answer": "First Lord of the Treasury",
+        "incorrect_answers": [
+          "Duke of Cambridge",
+          "Her Majesty&#039;s Loyal Opposition",
+          "Manager of the Crown Estate"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which of the following is not the host of a program on NPR?",
+        "correct_answer": "Ben Shapiro",
+        "incorrect_answers": [
+          "Terry Gross",
+          "Ira Glass",
+          "Peter Sagal"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Where is Apple Inc. headquartered?",
+        "correct_answer": "Cupertino, California",
+        "incorrect_answers": [
+          "Redwood City, California",
+          "Redmond, Washington",
+          "Santa Monica, CA"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "When was Nintendo founded?",
+        "correct_answer": "September 23rd, 1889",
+        "incorrect_answers": [
+          "October 19th, 1891",
+          "March 4th, 1887",
+          "December 27th, 1894"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Who is the founder of &quot;The Lego Group&quot;?",
+        "correct_answer": "Ole Kirk Christiansen",
+        "incorrect_answers": [
+          " Jens Niels Christiansen",
+          "Kirstine Christiansen",
+          " Gerhardt Kirk Christiansen"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Which of the following is not another name for the eggplant?",
+        "correct_answer": "Potimarron",
+        "incorrect_answers": [
+          "Brinjal",
+          "Guinea Squash",
+          "Melongene"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which of the following landmarks is not located in New York City?",
+        "correct_answer": "Lincoln Memorial",
+        "incorrect_answers": [
+          "Empire State Building",
+          "Times Square",
+          "Central Park"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What airline was the owner of the plane that crashed off the coast of Nova Scotia in 1998?",
+        "correct_answer": "Swiss Air",
+        "incorrect_answers": [
+          "Air France",
+          "British Airways",
+          "TWA"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which river flows through the Scottish city of Glasgow?",
+        "correct_answer": "Clyde",
+        "incorrect_answers": [
+          "Tay",
+          "Dee",
+          "Tweed"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "The word &quot;astasia&quot; means which of the following?",
+        "correct_answer": "The inability to stand up",
+        "incorrect_answers": [
+          "The inability to make decisions",
+          "The inability to concentrate on anything",
+          "A feverish desire to rip one&#039;s clothes off"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What was the name given to Japanese military dictators who ruled the country through the 12th and 19th Century?",
+        "correct_answer": "Shogun",
+        "incorrect_answers": [
+          "Ninja",
+          "Samurai",
+          "Shinobi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "The lesser-known continuation of the saying &quot;Curiosity killed the cat...&quot; is:",
+        "correct_answer": "&quot;...but satisfaction brought it back.&quot;",
+        "incorrect_answers": [
+          "&quot;...and the silent mouse remained thereat.&quot;",
+          "&quot;...which taught it not to do that.&quot;",
+          "&quot;...but death by the truth is better than ignorance.&quot;"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Who invented the first ever chocolate bar, in 1847?",
+        "correct_answer": "Joseph Fry",
+        "incorrect_answers": [
+          "Andrew Johnson",
+          "John Cadbury",
+          "John Tyler"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The file hosting service, &quot;Google Drive&quot; was launched on what day?",
+        "correct_answer": "April 24, 2012",
+        "incorrect_answers": [
+          "January 12, 2014",
+          "November 14, 2008",
+          "January 20, 2010"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which of these colours is NOT featured in the logo for Google?",
+        "correct_answer": "Pink",
+        "incorrect_answers": [
+          "Yellow",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "If someone said &quot;you are olid&quot;, what would they mean?",
+        "correct_answer": "You smell extremely unpleasant.",
+        "incorrect_answers": [
+          "You are out of shape/weak.",
+          "Your appearance is repulsive.",
+          "You are incomprehensible/an idiot."
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which American-owned brewery led the country in sales by volume in 2015?",
+        "correct_answer": "D. G. Yuengling and Son, Inc",
+        "incorrect_answers": [
+          "Anheuser Busch",
+          "Boston Beer Company",
+          "Miller Coors"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What was the original name of the search engine &quot;Google&quot;?",
+        "correct_answer": "BackRub",
+        "incorrect_answers": [
+          "CatMassage",
+          "SearchPro",
+          "Netscape Navigator"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which sign of the zodiac comes between Virgo and Scorpio?",
+        "correct_answer": "Libra",
+        "incorrect_answers": [
+          "Gemini",
+          "Taurus",
+          "Capricorn"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "What is the weight of a Gold Bar in Fallout: New Vegas?",
+        "correct_answer": "35 Pounds",
+        "incorrect_answers": [
+          "30 Pounds",
+          "40 Pounds",
+          "32.50 Pounds"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "When was WhatsApp founded?",
+        "correct_answer": "2009",
+        "incorrect_answers": [
+          "2007",
+          "2012",
+          "2010"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "What is the romanized Chinese word for &quot;airplane&quot;?",
+        "correct_answer": "Feiji",
+        "incorrect_answers": [
+          "Qiche",
+          "Zongxian",
+          "Huojian"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The New York Times slogan is, &ldquo;All the News That&rsquo;s Fit to&hellip;&rdquo;",
+        "correct_answer": "Print",
+        "incorrect_answers": [
+          "Digest",
+          "Look",
+          "Read"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which best selling toy of 1983 caused hysteria, resulting in riots breaking out in stores?",
+        "correct_answer": "Cabbage Patch Kids",
+        "incorrect_answers": [
+          "Transformers",
+          "Care Bears",
+          "Rubik&rsquo;s Cube"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "A statue of Charles Darwin sits in what London museum?",
+        "correct_answer": "Natural History Museum",
+        "incorrect_answers": [
+          "Tate",
+          "British Museum",
+          "Science Museum"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Macintosh has named six of its operating systems after big cats. What big cat did Macintosh name their 2007 release after? ",
+        "correct_answer": "Leopard",
+        "incorrect_answers": [
+          "Tiger",
+          "Panther",
+          "Puma"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "If you are caught &quot;Goldbricking&quot;, what are you doing wrong?",
+        "correct_answer": "Slacking",
+        "incorrect_answers": [
+          "Smoking",
+          "Stealing",
+          "Cheating"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Whose greyscale face is on the kappa emoticon on Twitch?",
+        "correct_answer": "Josh DeSeno",
+        "incorrect_answers": [
+          "Justin DeSeno",
+          "John DeSeno",
+          "Jimmy DeSeno"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "In the English language, what is the name of the &quot;&amp;&quot; character?",
+        "correct_answer": "Ampersand",
+        "incorrect_answers": [
+          "Eightslash",
+          "And Sign",
+          "Obelus "
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Where does water from Poland Spring water bottles come from?",
+        "correct_answer": "Maine, United States",
+        "incorrect_answers": [
+          "Hesse, Germany",
+          "Masovia, Poland",
+          "Bavaria, Poland"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Waluigi&#039;s first appearance was in what game?",
+        "correct_answer": "Mario Tennis 64 (N64)",
+        "incorrect_answers": [
+          "Wario Land: Super Mario Land 3",
+          "Mario Party (N64)",
+          "Super Smash Bros. Ultimate"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What is the Portuguese word for &quot;Brazil&quot;?",
+        "correct_answer": "Brasil",
+        "incorrect_answers": [
+          "Brazil",
+          "Brasilia",
+          "Bras&iacute;l"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which of these American singers and songwriters won a Nobel Prize in Literature?",
+        "correct_answer": "Bob Dylan",
+        "incorrect_answers": [
+          "Buddy Holly",
+          "Johnny Cash",
+          "Alice Cooper"
+        ]
+      }
+    ]
+  }
